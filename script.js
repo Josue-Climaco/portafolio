@@ -91,8 +91,8 @@ function sendEmail(e) {
 
 
         var send = {
-            userSupport: 'Eliezer Jimenez',
-            emailSupport: 'jiemenezpinedaeliezer@gmail.com',
+            userSupport: 'Josue Climaco',
+            emailSupport:'hjosue656@gmail.com',
             nameContact: name.value,
             lastContact: ' ',
             emailContact: email.value,
